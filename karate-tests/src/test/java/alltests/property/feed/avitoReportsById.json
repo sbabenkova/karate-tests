@@ -1,0 +1,27 @@
+{
+  "section": {
+    "slug": "stopped_end_date_complete",
+    "title": "Прошла дата окончания размещения"
+  },
+  "ad_id": "1921",
+  "avito_id": 2613086539,
+  "url": "https://www.avito.ru/items/2613086539",
+  "messages": [
+    {
+      "code": 3007,
+      "title": "",
+      "description": "Прошла дата окончания размещения",
+      "type": "info",
+      "updated_at": "2022-12-13T00:03:01Z"
+    },
+    {
+      "code": 3003,
+      "title": "",
+      "description": "Объявление остановилось",
+      "type": "info",
+      "updated_at": "2022-11-16T13:22:07Z"
+    }
+  ],
+  "avito_date_end": "2022-12-02T12:10:41.161000+03:00",
+  "avito_status": "old"
+}

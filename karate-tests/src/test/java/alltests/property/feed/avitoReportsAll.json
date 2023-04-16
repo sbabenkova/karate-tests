@@ -1,0 +1,40 @@
+{
+  "reports": [
+    {
+      "id": 74474411,
+      "started_at": "2022-11-07T14:01:19Z",
+      "finished_at": "2022-11-07T14:26:18Z",
+      "status": "success"
+    },
+    {
+      "id": 74463241,
+      "started_at": "2022-11-07T13:01:57Z",
+      "finished_at": "2022-11-07T13:18:47Z",
+      "status": "success"
+    },
+    {
+      "id": 74452553,
+      "started_at": "2022-11-07T12:00:58Z",
+      "finished_at": "2022-11-07T12:25:15Z",
+      "status": "success"
+    },
+    {
+      "id": 74443197,
+      "started_at": "2022-11-07T11:01:04Z",
+      "finished_at": "2022-11-07T11:17:36Z",
+      "status": "success"
+    },
+    {
+      "id": 74434293,
+      "started_at": "2022-11-07T10:01:51Z",
+      "finished_at": "2022-11-07T10:25:28Z",
+      "status": "success"
+    }
+  ],
+  "meta": {
+    "per_page": 5,
+    "page": 0,
+    "pages": 29,
+    "total": 142
+  }
+}
